@@ -17,6 +17,7 @@ Follow the instructions below to set up and run the project locally on your mach
 ### 1. Clone the Repository
 
 ```git clone https://github.com/vishnuI262/pet-adoption-agency-using-mern-stack.git```
+
 ```cd pet-adoption-agency-using-mern-stack```
 
 ---
@@ -24,6 +25,7 @@ Follow the instructions below to set up and run the project locally on your mach
 ### 2. Install Backend Dependencies
 
 Install the required packages in the root folder.
+
 ```npm run build```
 
 ---
@@ -31,23 +33,27 @@ Install the required packages in the root folder.
 ### 3. Run both Frontend and Backend
 
 ```cd frontend```
+
 ```npm run dev```
 
 (Create a new terminal for backend)
 
 ```cd backend```
+
 ```npm run dev```
 
 ---
 
 ### 4. Setup Environment Variables
 
-Create a `.env` file inside the `backend/` folder and add your MongoDB URI and any other necessary environment variables.
+Create a `.env` file inside the root folder and add your MongoDB URI and any other necessary environment variables.
 
 Example:
 
 ### MONGO_URI=your_mongodb_connection_string
+
 ### PORT=5000
+
 ### JWT_TOKEN = your_jwt_token (It could be anything)
 
 ---
