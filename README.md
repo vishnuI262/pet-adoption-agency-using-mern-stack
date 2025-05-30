@@ -108,7 +108,7 @@ Example:
 ## 👨‍💻 Developed By
 
 **Vishnu S**  
-Full Stack Developer | Final-year Artificial Intelligence and Data Science Student  
+Engineer | Final-year Artificial Intelligence and Data Science Student  
 [GitHub](https://github.com/vishnuI262)
 
 ---
