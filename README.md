@@ -22,7 +22,7 @@ Follow the instructions below to set up and run the project locally on your mach
 
 ---
 
-### 2. Install Backend Dependencies
+### 2. Install Frontend and Backend Dependencies
 
 Install the required packages in the root folder.
 
@@ -108,7 +108,7 @@ Example:
 ## 👨‍💻 Developed By
 
 **Vishnu S**  
-Full Stack Developer | Final-year CS Student  
+Full Stack Developer | Final-year Artificial Intelligence and Data Science Student  
 [GitHub](https://github.com/vishnuI262)
 
 ---
